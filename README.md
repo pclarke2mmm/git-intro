@@ -14,7 +14,7 @@
     git clone https://github.com/pclarke2mmm/git-intro.git
     ```
 
-    If the above command doesn't work, you may need to connect to the VPN, or you can try cloning with SSH:
+    If the above command doesn't work, you may need to connect to the VPN. Or you can try cloning with SSH:
 
     ```bash
     git clone git@github.com:pclarke2mmm/git-intro.git
