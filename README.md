@@ -21,3 +21,7 @@
     ```
 
     Cloning with SSH requires [Configuring SSH Keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+
+## Course Outline
+
+[Making Changes](MakingChanges.md)
