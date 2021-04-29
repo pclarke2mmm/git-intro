@@ -1,4 +1,4 @@
-// mulitplies input x by 2
-const multiply = (x) => {
-    return x * 2;
+// mulitplies input x by input y
+const multiply = (x, y) => {
+    return x * y;
 }
