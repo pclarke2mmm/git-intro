@@ -23,6 +23,7 @@ git commit -m "I created/modified filename(s)!"
 ```
 
 Run these commands to try it all in one line:
+
 bash
 
 ```bash
@@ -34,3 +35,7 @@ powershell
 ```powershell
 for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}
 ```
+
+Next Step: [Creating a Pull Request](CreatingAPullRequest.md)
+
+[Back To Repo Home](../)
