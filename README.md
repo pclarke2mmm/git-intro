@@ -24,4 +24,5 @@
 
 ## Course Outline
 
-[Making Changes](MakingChanges.md)
+- [Making Changes](MakingChanges.md)
+- [Creating a Pull Request](CreatingAPullRequest.md)
