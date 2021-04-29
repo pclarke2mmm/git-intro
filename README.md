@@ -1,7 +1,7 @@
 # Intro to Git and Github
 
-- Date: 04/30/2021
-- Facilitator: Peter Clarke
+Date: 04/30/2021
+Facilitator: Peter Clarke
 
 ## Setting Up
 
@@ -25,3 +25,4 @@
 ## Course Outline
 
 [Making Changes](MakingChanges.md)
+[Creating a Pull Request](CreatingAPullRequest.md)
