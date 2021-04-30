@@ -1,5 +1,7 @@
 # Example Repo for Intro to Git and Github
 
+Testing out some changes
+
 ## Setting Up
 
 1. [Download Git](https://git-scm.com/downloads)
