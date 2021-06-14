@@ -1,4 +1,4 @@
-// mulitplies input x by 3
+// mulitplies input x by 4
 const multiply = (x) => {
-    return x * 3;
+    return x * 4;
 }
