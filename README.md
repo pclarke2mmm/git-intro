@@ -1,6 +1,6 @@
 # Example Repo for Intro to Git and Github
 
-Testing out some changes.
+Testing out some main changes.
 
 ## Setting Up
 
